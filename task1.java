@@ -1,3 +1,5 @@
+// Student Grades
+
 import java.util.Scanner;
 
 public class StudentGrades {
